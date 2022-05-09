@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(85, 145, 160);
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-weight: normal;
+    /*background-color: #EAFFD0;*/
+}
+
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+
+/* div */
+.top-container{
+    background-color: rgb(255, 255, 255);
+}
+.table-menu td:hover{
+    background-color: rgb(128, 207, 221);
+}
+.table-content h2{
+    background-color: rgb(128, 207, 221);
+}
+.table-content img:hover{
+    background-color: white;
+}
